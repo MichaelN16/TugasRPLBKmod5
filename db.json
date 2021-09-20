@@ -1,0 +1,73 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "produk":"HUAWEI Mate 30 Pro",
+      "warna": "Space Silver",
+      "harga": "Rp 10.399.000",
+      "memori": "8GB/256GB"
+    },
+    {
+      "id": 2,
+      "produk":"VIVO Y91C",
+      "warna": "Fusion Black",
+      "harga": "Rp 1.610.000",
+      "memori": "Rp 1.610.000"
+    },
+    {
+      "id": 3,
+      "produk":"XIAOMI Redmi 9",
+      "warna": "Grey",
+      "harga": "Rp 2.253.900",
+      "memori": "4GB/64GB"
+    },
+    {
+      "id": 4,
+      "produk":"HUAWEI P40 Pro",
+      "warna": "Deep Sea",
+      "harga": "Rp 13.499.000",
+      "memori": "8GB/256GB"
+    },
+    {
+      "id": 5,
+      "produk":"OPPO A33",
+      "warna": "Moonlight Black",
+      "harga": "Rp 2.528.000",
+      "memori": "3GB/32GB"    
+    },
+    {
+      "id": 6,
+      "produk":"INFINIX Hot 9 Play",
+      "warna": "Black",
+      "harga": "Rp 1.538.900",
+      "memori": "2GB/32GB"
+    },
+    {
+      "id": 7,
+      "produk":"SAMSUNG Galaxy A21S",
+      "warna": "Black",
+      "harga": "Rp 3.738.900",
+      "memori": "6GB/64GB"
+    },
+    {
+      "id": 8,
+      "produk":"NOKIA 5.3",
+      "warna": "Charcoal",
+      "harga": "Rp 3.099.000",
+      "memori": "6GB/64GB"
+    },
+    {
+      "id": 9,
+      "produk":"ASUS ROG Phone 5",
+      "warna": "Storm White",
+      "harga": "Rp 9.649.000",
+      "memori": "8GB/128GB"
+    },
+    {
+      "produk":"SHARP Aquos R3",
+      "warna": "Classic Black",
+      "harga": "Rp 10.999.000",
+      "memori": "6GB/128GBB"
+    }
+  ]
+}
